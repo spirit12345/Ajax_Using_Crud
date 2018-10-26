@@ -12,6 +12,6 @@ public class Test {
 public static void main(String[] args) {
 	System.out.println("In main ()");
 	SpringApplication.run(Test.class);
-	System.out.println("Main end");
+	System.out.println("showing Main end after successfull pulling from github");
 }
 }
